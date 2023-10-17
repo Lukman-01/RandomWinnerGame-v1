@@ -1,12 +1,6 @@
-I understand. Here's a more appropriate format for a GitHub README:
-
----
-
 # Random Winner Game DApp 🎲
 
 A decentralized lottery game built on Ethereum. Players participate by paying an entry fee, and once the maximum number of participants is reached, a random winner is selected. Integrated with The Graph for efficient data retrieval.
-
-![DApp screenshot](./screenshot.png)
 
 ## Table of Contents
 
